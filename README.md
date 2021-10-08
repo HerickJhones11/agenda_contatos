@@ -8,7 +8,7 @@
 
 ## Funcionalidades
 
-- #### Permite consultar, criar e alterar contatos com número de telefone.
+- #### Permite consultar, criar e alterar contatos no celular.
 - #### Anexo de Imagens,Permite ligar para contato.    
 ------------
 
