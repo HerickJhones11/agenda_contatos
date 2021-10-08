@@ -27,7 +27,7 @@ flutter run
  ```
  * No terminal na base do projeto.
 
-**Após a finalização do build, o app poderá ser acessado em um dispositivo físico conectado no computador ou também pode rodar no emulador virtual.
+Após a finalização do build, o app poderá ser acessado em um dispositivo físico conectado no computador, ou também pode rodar no emulador virtual.
 
 
 ## Tecnologias usadas no projeto
